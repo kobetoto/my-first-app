@@ -1,0 +1,15 @@
+.nav{
+ display: flex;
+ justify-content: space-between;
+}
+
+.nav img{
+    height: 33px;
+    width: 33px;
+}
+
+.nav a{
+    text-decoration: none;
+    justify-content: flex-end;
+    padding-left: 23px;
+}
